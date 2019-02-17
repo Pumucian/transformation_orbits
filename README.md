@@ -5,4 +5,4 @@ This program has 2 different scenes: the first one is a text "Star Wars"-like an
 
 ![](general_view.gif)
 
-![](third_person.gif)
+![](third_person_view.gif)
