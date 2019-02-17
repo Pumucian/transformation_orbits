@@ -1,4 +1,4 @@
-PShape ship, flatEarth, shipSquare, shipSphere;
+PShape ship, shipSquare, shipSphere;
 
 int c, cameraX, cameraY, cameraZ, speedZ, textCounter, shipY, speedY, speedX, planetCounter;
 float textYOffset, shipAngle, shipX, shipZ, shipRotation;
